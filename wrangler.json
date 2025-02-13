@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "hidden-union-b4e0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9776b5e0-87e0-40e6-9b57-7b9fc8096029",
+      "database_name": "hidden-union-b4e0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
